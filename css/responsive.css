@@ -44,6 +44,13 @@
     }
 
     .slider_section {
+
+
+
+
+
+
+
         background-image: url(../images/slidrer-bg.jpg);
         background-repeat: no-repeat;
 
@@ -58,11 +65,71 @@
 
     }
 
-    .slider_img-box {
+    .slider_img-box1 {
 
         margin-bottom: 90px;
+        margin-right: 400px;
+
+        scale: 45%;
+        float:center;
 
     }
+
+
+    .slider_img-box2 {
+
+        margin-bottom: 90px;
+        margin-right: 400px;
+
+        scale: 48%;
+        float:center;
+
+    }
+
+
+    .slider_img-box3 {
+
+        margin-bottom: 90px;
+        margin-right: 400px;
+
+        scale: 48%;
+        float:center;
+
+    }
+
+
+    .slider_img-box4 {
+
+        margin-bottom: 90px;
+        margin-right: 400px;
+
+        scale: 50%;
+        float:center;
+
+    }
+
+
+    .slider_img-box5 {
+
+        margin-bottom: 90px;
+        margin-top: 50px;
+        margin-right: 400px;
+        scale: 45%;
+        float: center ;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 
     .slider_section .carousel-indicators {
 
